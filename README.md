@@ -204,5 +204,5 @@ This singleton class manages user authentication and login functionalities. It e
 </details>
 
 ### 📽 Video : [FOOD DELIVERY APP 🧁](https://youtu.be/JCMeC8KmguU)
-### 🖥 Code : [ The Code 🧁 ](https://github.com/anacimpeanu/FoodDeliveryApp/tree/main/FoodDeliveryApp)
+### 🖥 Code : [ The Code 🧁 ](https://github.com/ArtemisTismanaru/Food-Delivery-App/tree/main/Proiect)
 
