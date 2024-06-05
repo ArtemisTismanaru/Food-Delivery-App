@@ -1,4 +1,4 @@
-# FOOD DELIVERY APP 🥞
+# FOOD DELIVERY APP 🥞 
 This team of three hardworking girls has successfully developed an innovative food delivery app using Java. Their collaboration and dedication have resulted in a seamless, efficient, and user-friendly platform that is transforming the food delivery industry.
 
 <div align="center">  
